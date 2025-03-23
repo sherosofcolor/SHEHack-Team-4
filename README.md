@@ -74,7 +74,7 @@ We utilized GPT (Generative Pre-trained Transformer) for the ideation and develo
 
 ## Presentation Link
 [https://www.canva.com/design/DAGijp-OA18/D_ZanMPfTlvhydI-XSbqdw/edit](#)
-
+https://drive.google.com/file/d/1I_uUFhrm8m5DC8p1wycXGpxGgoInUWb_/view?usp=sharing
 
 ## Setup & Installation
 
