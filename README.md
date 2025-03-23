@@ -1,18 +1,34 @@
-# SHEHack-Team-4
 # FINOVA
 
-## Introduction
-FINOVA is an empowering financial application designed specifically for women, providing budgeting tools, financial advice, automated tracking, and AI-powered financial assistance.
+## Project Name
+FINOVA - Empowering Financial App for Women
+
+## Team Details
+- **Team Number:** 4
+- **Team Members:**
+  - Harika Purma
+  - Shrivarshini Narayanan
+  - Swathi JR
+  - Rohini Machavolu
+
+## Inspiration Behind the Project
+Women often face unique financial challenges and barriers in accessing tailored financial resources. FINOVA aims to bridge this gap by providing targeted financial management tools, guidance, and personalized support through innovative technology solutions.
+
+## Impact of the Solution
+FINOVA empowers women by improving their financial literacy and independence. By enabling women to take control of their budgeting, savings, and investments, it fosters economic empowerment, reducing financial stress and promoting overall well-being.
 
 ## Features
+- **Budgeting:** Efficient expense tracking and budgeting management.
+- **AI Chatbot**: Real-time personalized financial advice.
+- **Financial Dashboard:** Insightful analytics on spending and saving habits.
+- **Contact Experts:** Direct access to professional financial advice.
+- **Personalized Services:** Tailored financial planning and resource suggestions.
 
-- **Budgeting:** Manage and track expenses efficiently.
-- **AI Chatbot**: Personal financial assistance with real-time conversation capability.
-- **Chatbot**: Financial consultation and FAQ automated responses.
-- **Budgeting**: Tools and trackers to manage your budgets effectively.
-- **Contact**: Direct access to financial experts.
-- **Dashboard**: Overview of financial health with insightful analytics.
-- **Services**: Personalized financial planning and resources.
+## Tech Stack Used
+- **Frontend:** React, Next.js, TypeScript
+- **Styling:** Tailwind CSS
+- **Backend:** Node.js, RESTful APIs
+- **AI Integration:** GPT-powered chatbot for personalized interaction
 
 ## File Structure
 ```
@@ -20,9 +36,6 @@ FINOVA
 ├── app
 │   ├── api
 │   ├── budgeting
-│   ├── chatbot
-│   ├── contact
-│   ├── dashboard
 │   ├── chatbot
 │   ├── contact
 │   ├── dashboard
@@ -46,11 +59,21 @@ FINOVA
 └── tsconfig.json
 ```
 
-## Tech Stack
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
+## Challenges Faced
+- Integration of real-time AI responses and ensuring seamless user experience.
+- Optimizing performance across multiple devices.
+- Ensuring the security and privacy of sensitive financial information.
+
+## Future Scope
+- Integrate more advanced AI capabilities for predictive financial analytics.
+- Expand features to include investment tracking and wealth management.
+- Mobile application development to enhance accessibility.
+
+## AI Tool Disclosure
+We utilized GPT (Generative Pre-trained Transformer) for the ideation and development phase of this project, specifically in the AI chatbot's functionality.
+
+## Presentation Link
+[https://www.canva.com/design/DAGijp-OA18/D_ZanMPfTlvhydI-XSbqdw/edit](#)
 
 ## Setup & Installation
 
@@ -67,13 +90,9 @@ npm run dev
 ```
 Navigate to `http://localhost:3000` in your browser.
 
-## Key Functionalities
-- **Budgeting Module**: Helps women easily manage their finances.
-- **Chatbot**: Provides interactive financial assistance.
-- **AI Integration**: Uses machine learning to give personalized financial advice.
-
-## Development
-Built with Next.js, TypeScript, React, and Tailwind CSS for modern and responsive user interfaces.
-
 ## Contribution
 Feel free to contribute by opening issues or submitting pull requests to enhance women's financial literacy and empowerment.
+
+## License
+MIT License
+
